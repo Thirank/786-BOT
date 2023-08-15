@@ -48,3 +48,4 @@ ytthumb
 YoutubeTags
 
 shortzy
+dnspython==2.3.0
